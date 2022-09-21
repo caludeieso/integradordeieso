@@ -1,0 +1,39 @@
+
+#cartas
+{
+    display: flex;
+    justify-content: space-around;
+
+}
+#color
+{
+    background-color: rgb(30, 163, 112);
+    border: none;
+}
+.textoderecha
+{
+    float: right;
+    position: absolute;
+    right: 10%;
+    top: 25%;
+    width: 400px;
+    text-align: end;
+    color: white;
+
+}
+
+
+.navegador
+{
+    background-color: #4c4746;
+   
+}
+
+#verde
+{
+    color:green;
+}
+#formu
+{
+    width: 70%;
+}
