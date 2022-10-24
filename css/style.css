@@ -5,6 +5,13 @@
     justify-content: space-around;
 
 }
+#tarjetas
+{
+    margin-top: 7%;
+    display: flex;
+    justify-content: space-around;
+
+}
 #color
 {
     background-color: rgb(30, 163, 112);
